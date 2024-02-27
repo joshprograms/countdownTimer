@@ -3,7 +3,7 @@ body{
   align-items: center;
   justify-content: space-evenly;
   margin: 100px;
-  background-color: aqua;
+  background-color: black;
 }
 .container__1{
   /* background-color: cadetblue; */
@@ -25,7 +25,7 @@ body{
   width: 65%;
 }
 .count{
-  background: #000;
+  background: red;
   width: 70px;
   height: 70px;
   border-radius: 5px;
